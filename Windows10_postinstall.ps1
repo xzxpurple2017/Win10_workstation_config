@@ -85,6 +85,7 @@ packer
 postman
 putty
 python3
+riot-web
 rsync
 slack
 steam
