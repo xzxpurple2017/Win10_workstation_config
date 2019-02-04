@@ -104,6 +104,16 @@ yubikey-manager
 
 choco install $packages -y
 
+# These packages do not have checksums that can be verified
+# Install these at your own risk
+
+$unverified_packages = @"
+spotify
+whatsapp
+"@
+
+choco install $unverified_packages -y --ignore-checksums
+
 # Install and configure ssh-agent
 "C:\Program Files\OpenSSH-Win64\install-sshd.ps1"
 ssh-agent
