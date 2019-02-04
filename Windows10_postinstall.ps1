@@ -61,6 +61,7 @@ audacity-lame
 authy-desktop
 awscli
 chocolateygui
+cmder
 cpu-z
 curl
 docker-kitematic
@@ -83,7 +84,7 @@ openssh
 openvpn
 packer
 postman
-putty
+putty.install
 python3
 riot-web
 rsync
