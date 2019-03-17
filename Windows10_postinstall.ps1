@@ -98,6 +98,7 @@ vlc
 vnc-viewer
 vscode
 windirstat
+youtube-dl
 yubico-authenticator
 yubikey-manager
 "@
