@@ -55,7 +55,8 @@ refreshenv
 # Install user-defined packages
 
 $packages = @"
-7-zip
+7zip.install
+advanced-ip-scanner
 audacity
 audacity-lame
 authy-desktop
@@ -78,7 +79,6 @@ jdk8
 kubernetes-cli
 kubernetes-helm
 lastpass
-leagueoflegends
 minikube
 openssh
 openvpn
@@ -105,11 +105,20 @@ yubikey-manager
 
 choco install $packages -y
 
+# These are optional packages that are probably not for everyone
+
+$optional_packages = @"
+cue
+leagueoflegends
+onetastic
+"@
+
+choco install $optional_packages -y
+
 # These packages do not have checksums that can be verified
 # Install these at your own risk
 
 $unverified_packages = @"
-spotify
 whatsapp
 "@
 
