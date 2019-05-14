@@ -74,6 +74,7 @@ foxitreader
 git
 google-backup-and-sync
 googlechrome
+gpg4win-vanilla
 hwmonitor
 jdk8
 kubernetes-cli
@@ -111,6 +112,8 @@ $optional_packages = @"
 cue
 leagueoflegends
 onetastic
+pdfsam
+vdhcoapp
 "@
 
 choco install $optional_packages -y
