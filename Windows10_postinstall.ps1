@@ -68,6 +68,7 @@ curl
 docker-kitematic
 docker-toolbox
 etcher
+ext2fsd
 ffmpeg
 firefox
 foxitreader
