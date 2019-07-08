@@ -114,6 +114,7 @@ cue
 leagueoflegends
 onetastic
 pdfsam
+telegram
 vdhcoapp
 "@
 
