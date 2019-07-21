@@ -82,6 +82,7 @@ kubernetes-cli
 kubernetes-helm
 lastpass
 minikube
+netcat
 openssh
 openvpn
 packer
