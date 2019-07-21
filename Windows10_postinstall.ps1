@@ -83,6 +83,7 @@ kubernetes-helm
 lastpass
 minikube
 netcat
+nmap
 openssh
 openvpn
 packer
@@ -93,6 +94,7 @@ riot-web
 rsync
 slack
 steam
+telnet
 terraform
 tixati
 vagrant
@@ -100,6 +102,7 @@ virtualbox
 vlc
 vnc-viewer
 vscode
+whois
 windirstat
 youtube-dl
 yubico-authenticator
