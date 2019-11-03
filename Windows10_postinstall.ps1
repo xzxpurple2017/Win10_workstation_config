@@ -104,6 +104,7 @@ vnc-viewer
 vscode
 whois
 windirstat
+xming
 youtube-dl
 yubico-authenticator
 yubikey-manager
