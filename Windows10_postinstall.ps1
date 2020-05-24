@@ -65,6 +65,7 @@ chocolateygui
 cmder
 cpu-z
 curl
+discord
 docker-kitematic
 docker-toolbox
 etcher
