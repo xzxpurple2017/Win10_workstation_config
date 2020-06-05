@@ -86,6 +86,7 @@ microsoft-teams
 minikube
 netcat
 nmap
+nordvpn
 openssh
 openvpn
 packer
