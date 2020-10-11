@@ -103,6 +103,7 @@ telnet
 terraform
 tixati
 vagrant
+vim
 virtualbox
 vlc
 vnc-viewer
