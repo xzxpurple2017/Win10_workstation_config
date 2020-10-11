@@ -57,10 +57,10 @@ refreshenv
 $packages = @"
 7zip.install
 advanced-ip-scanner
+amazon-workspaces
 audacity
 audacity-lame
 authy-desktop
-awscli
 chocolateygui
 cmder
 cpu-z
@@ -95,6 +95,7 @@ putty.install
 python3
 riot-web
 rsync
+saml2aws
 slack
 steam
 telnet
