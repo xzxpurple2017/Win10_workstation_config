@@ -61,6 +61,7 @@ amazon-workspaces
 audacity
 audacity-lame
 authy-desktop
+awscli
 chocolateygui
 cmder
 cpu-z
