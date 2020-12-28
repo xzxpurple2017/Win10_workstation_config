@@ -99,6 +99,7 @@ rsync
 saml2aws
 slack
 steam
+teamviewer
 telnet
 terraform
 tixati
