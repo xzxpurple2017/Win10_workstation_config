@@ -82,7 +82,6 @@ hwmonitor
 jdk8
 kubernetes-cli
 kubernetes-helm
-lastpass
 microsoft-teams
 minikube
 netcat
