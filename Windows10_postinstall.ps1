@@ -61,6 +61,7 @@ amazon-workspaces
 audacity
 audacity-lame
 authy-desktop
+avidemux
 awscli
 chocolateygui
 cmder
@@ -110,6 +111,7 @@ vnc-viewer
 vscode
 whois
 windirstat
+wireguard
 xming
 youtube-dl
 yubico-authenticator
