@@ -106,6 +106,7 @@ tixati
 vagrant
 vim
 virtualbox
+visualstudio2019community
 vlc
 vnc-viewer
 vscode
