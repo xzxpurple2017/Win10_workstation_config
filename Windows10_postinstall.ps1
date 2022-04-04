@@ -106,6 +106,7 @@ tixati
 vagrant
 vim
 virtualbox
+visualstudio2019-workload-nativedesktop
 visualstudio2019community
 vlc
 vnc-viewer
