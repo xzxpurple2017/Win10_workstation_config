@@ -63,6 +63,7 @@ audacity-lame
 authy-desktop
 avidemux
 awscli
+awssamcli
 chocolateygui
 cmder
 cpu-z
@@ -88,6 +89,7 @@ minikube
 netcat
 nmap
 nordvpn
+openshift-cli
 openssh
 openvpn
 packer
